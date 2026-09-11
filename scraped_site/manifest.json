@@ -1,0 +1,26 @@
+{
+  "requested_url": "https://www.mala-italie.cz/italska-zrnkova-kava/pellini-espresso-bar-n--9-cremoso--zrnkova-kava-1kg/",
+  "final_url": "https://www.mala-italie.cz/italska-zrnkova-kava/pellini-espresso-bar-n--9-cremoso--zrnkova-kava-1kg/",
+  "stylesheets": [
+    {
+      "original_url": "https://cdn.myshoptet.com/prj/dist/master/cms/templates/frontend_templates/shared/css/font-face/open-sans.css",
+      "local_file": "css/001_open-sans.css"
+    },
+    {
+      "original_url": "https://cdn.myshoptet.com/prj/dist/master/cms/templates/frontend_templates/shared/css/font-face/poppins.css",
+      "local_file": "css/002_poppins.css"
+    },
+    {
+      "original_url": "https://cdn.myshoptet.com/usr/apollo.jakubtursky.sk/user/documents/assets/main.css?v=1855",
+      "local_file": "css/003_main.css"
+    },
+    {
+      "original_url": "https://cdn.myshoptet.com/usr/apollo.jakubtursky.sk/user/documents/assets/banner-klik/main.css?v=13",
+      "local_file": "css/004_main.css"
+    },
+    {
+      "original_url": "https://cdn.myshoptet.com/addons/dominikmartini/action_price_plus/styles.header.min.css?54d802d4d8e9dfc09a72677cc18be1585eff65d2",
+      "local_file": "css/005_styles.header.min.css"
+    }
+  ]
+}
